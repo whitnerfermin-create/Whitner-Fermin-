@@ -1,0 +1,18 @@
+body {
+  margin: 20px;
+}
+ body {
+    background: white;
+}
+
+.clock {
+    position: absolute;
+    top:400%;
+    left:50%;
+    transform: translateX(-50%) translateY(-50%);
+    color: #17D4F;
+    font-size: 60px;
+    font-family: Orbitron;
+    letter-spacing: 10px;
+   }         
+          
